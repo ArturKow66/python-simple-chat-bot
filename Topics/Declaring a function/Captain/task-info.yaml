@@ -1,0 +1,19 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# declare your function here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7284#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 2. Runtime error
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 7, in <module>
+        captain_adder(input())
+    EOFError: EOF when reading a line
+  time: Mon, 09 Aug 2021 18:23:47 UTC
+record: -1
