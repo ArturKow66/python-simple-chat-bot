@@ -8,12 +8,6 @@ feedback_link: https://hyperskill.org/learn/step/7284#comment
 status: Failed
 feedback:
   message: |
-    Failed test #1 of 2. Runtime error
-
-    Error:
-    Traceback (most recent call last):
-      File "jailed_code", line 7, in <module>
-        captain_adder(input())
-    EOFError: EOF when reading a line
-  time: Mon, 09 Aug 2021 18:23:47 UTC
+    Failed test #1 of 2. Wrong answer
+  time: Tue, 10 Aug 2021 06:39:26 UTC
 record: -1
